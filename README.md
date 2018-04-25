@@ -3,6 +3,8 @@ Issues I experinced when I was trying to install VOT+Matconvent + Python\
 
 Downloads:
 
+From Add-On in Matlab setup Parallel Computing Toolbox
+
 MatConvent:
 https://www.mathworks.com/matlabcentral/fileexchange/47811-vlfeat-matconvnet
 
