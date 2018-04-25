@@ -31,7 +31,7 @@ Issues I experinced when I was trying to install VOT+Matconvent + Python
  #instead of#
  
             assert(reduce(lambda x,y: x and y, [isinstance(p,tuple) for p in points], False))
- #Add#
+ #ADD#
  
             assert(functools.reduce(lambda x,y: x and y, [isinstance(p,tuple) for p in points], False))
          
