@@ -14,15 +14,15 @@ Issues I experinced when I was trying to install VOT+Matconvent + Python
   VOT and TRAX installation
   =========================
   
-  1. I downloaded TRAX from here https://github.com/alessiodore/trax
-  2. Replace every xchange by change if any
-  3. Vot toolkit/ tracker/ System_wrapper.m I added this line before line#176 
-  
-  #Instead of# :
-  		    [status, output] = system(tracker.commandcomand, '');
-  #ADD#
-         command= string(sprintf('python %s', tracker.command));
-		    [status, output] = system(command, '');
+1. I downloaded TRAX from here https://github.com/alessiodore/trax
+2. Replace every xchange by change if any
+3. Vot toolkit/ tracker/ System_wrapper.m I added this line before line#176 
+
+#Instead of# :
+	    [status, output] = system(tracker.commandcomand, '');
+#ADD#
+ command= string(sprintf('python %s', tracker.command));
+	    [status, output] = system(command, '');
         
  4. In Trax.py add import fuctools
  5. At line 392   
