@@ -55,6 +55,8 @@ Choose the suitable version for your Windows, GPU.
  
  8. For CCOT Tracker use this toolkit version https://github.com/votchallenge/vot-toolkit/tree/64da0655cf973ef4a32923c72d5c423f908325a5
  9. How to install CCOT tracker https://github.com/martin-danelljan/Continuous-ConvOp
+ 10. ECO trackerhttps://github.com/martin-danelljan/ECO
+   When you run it and gives you error message Make sure you integrate CUDNN (Just add folders to CUDA) and also be sure that IMAGENET    it had  been downloaded 
 
 
 
