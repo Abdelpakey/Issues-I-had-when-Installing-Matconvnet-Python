@@ -31,8 +31,6 @@ Choose the suitable version for your Windows, GPU.
 1. I downloaded TRAX from here https://github.com/alessiodore/trax
 2. Replace every xchange by change if any
 3. Vot toolkit/ tracker/ System_wrapper.m I added this line before line#176 
-4. For CCOT Tracker use this toolkit version https://github.com/votchallenge/vot-toolkit/tree/64da0655cf973ef4a32923c72d5c423f908325a5
-5. How to install CCOT tracker https://github.com/martin-danelljan/Continuous-ConvOp
 
 #Instead of# :
 
@@ -55,6 +53,9 @@ Choose the suitable version for your Windows, GPU.
  
  7. The same for all trax files (e.g. Images, Region,...)
  
+ 8. For CCOT Tracker use this toolkit version https://github.com/votchallenge/vot-toolkit/tree/64da0655cf973ef4a32923c72d5c423f908325a5
+ 9. How to install CCOT tracker https://github.com/martin-danelljan/Continuous-ConvOp
+
 
 
  
