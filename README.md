@@ -50,9 +50,9 @@ Choose the suitable version for your Windows, GPU.
  
             assert(functools.reduce(lambda x,y: x and y, [isinstance(p,tuple) for p in points], False))
          
- 6. If map function doesnt have lenth add list before map.
+ 6. If map function doesnt have length add list before map.
  
- 7. The same for all trax files (e.g. images, Region,...)
+ 7. The same for all trax files (e.g. Images, Region,...)
  
 
 
