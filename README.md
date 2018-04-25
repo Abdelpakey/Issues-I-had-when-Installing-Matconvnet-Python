@@ -21,15 +21,15 @@ Issues I experinced when I was trying to install VOT+Matconvent + Python
 #Instead of# :
 	    [status, output] = system(tracker.commandcomand, '');
 #ADD#
- command= string(sprintf('python %s', tracker.command));
+            command= string(sprintf('python %s', tracker.command));
 	    [status, output] = system(command, '');
         
  4. In Trax.py add import fuctools
  5. At line 392   
  #instead of#
-         assert(reduce(lambda x,y: x and y, [isinstance(p,tuple) for p in points], False))
+            assert(reduce(lambda x,y: x and y, [isinstance(p,tuple) for p in points], False))
  #Add#
-         assert(functools.reduce(lambda x,y: x and y, [isinstance(p,tuple) for p in points], False))
+            assert(functools.reduce(lambda x,y: x and y, [isinstance(p,tuple) for p in points], False))
          
  6. If map function doesnt have lenth add list before map.
  
