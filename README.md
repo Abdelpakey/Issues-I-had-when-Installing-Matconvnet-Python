@@ -1,5 +1,6 @@
 # Issues-I-had-when-Installing-Matconvent-Python
-Issues I experinced when I was trying to install VOT+Matconvent + Python
+Issues I experinced when I was trying to install VOT+Matconvent + Python\
+
 Downloads:
 
 MatConvent:
