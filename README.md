@@ -57,6 +57,8 @@ Choose the suitable version for your Windows, GPU.
  9. How to install CCOT tracker https://github.com/martin-danelljan/Continuous-ConvOp
  10. ECO trackerhttps://github.com/martin-danelljan/ECO
    When you run it and gives you error message Make sure you integrate CUDNN (Just add folders to CUDA) and also be sure that IMAGENET    it had  been downloaded 
+   
+11. When you download any tracker from OT-Challenge http://www.votchallenge.net/challenges.html Don't forget to check the MATCONVENT version (depends on your OS and GPU) they use otherwise delete their MATCONVENT  and put yours 
 
 
 
