@@ -61,6 +61,14 @@ Choose the suitable version for your Windows, GPU.
 11. When you download any tracker from VOT-Challenge http://www.votchallenge.net/challenges.html Don't forget to check the MATCONVENT version (depends on your OS and GPU) they use otherwise delete their MATCONVENT  and put yours 
 
 
+Weird issue 
+____________
+
+After installing CUDNN when you run Matlab (Run_expierment.m in Vot-workspace) it will give you erro
+
+to fix it you have to remove CUDnn files form (bin, lib, include folders).
+
+
 
  
         
