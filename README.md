@@ -70,6 +70,7 @@ to fix it you have to remove CUDnn files form (bin, lib, include folders).
 
 Don't run Matlab in VOT while python Anaconda-Spyder is running).
 
+Number of folders (seuqences in VOT/results folder for each tracker) should be the same for other trackers
 
 
  
