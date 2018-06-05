@@ -10,6 +10,16 @@ https://www.mathworks.com/matlabcentral/fileexchange/47811-vlfeat-matconvnet
 VS2015
 https://my.visualstudio.com/Downloads?q=Visual%20Studio%202015%20with%20Update%203
 
+Install GPU 
+
+http://www.linuxandubuntu.com/home/how-to-install-latest-nvidia-drivers-in-linux
+
+or 
+https://askubuntu.com/questions/149206/how-to-install-nvidia-run
+
+Latest vesrsion of Nvidia driver 
+https://help.ubuntu.com/community/BinaryDriverHowto/Nvidia
+
 CUDA & CUDNN
 1. https://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html#installcuda-windows
 2. https://developer.nvidia.com/rdp/cudnn-download
