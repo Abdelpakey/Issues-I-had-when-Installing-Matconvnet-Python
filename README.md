@@ -17,6 +17,11 @@ http://www.linuxandubuntu.com/home/how-to-install-latest-nvidia-drivers-in-linux
 or 
 https://askubuntu.com/questions/149206/how-to-install-nvidia-run
 
+
+I installed cuda by
+
+https://www.youtube.com/watch?v=FK1y7XQuhp0
+
 Latest vesrsion of Nvidia driver 
 https://help.ubuntu.com/community/BinaryDriverHowto/Nvidia
 
