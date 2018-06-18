@@ -7,6 +7,11 @@ From Add-On in Matlab setup Parallel Computing Toolbox
 MatConvent:
 https://www.mathworks.com/matlabcentral/fileexchange/47811-vlfeat-matconvnet
 
+If you expireince error in compiling matconvnet 
+use this 
+	vl_compilenn('EnableGpu', true, 'cudaMethod', 'nvcc','verbose', '1')
+
+
 VS2015
 https://my.visualstudio.com/Downloads?q=Visual%20Studio%202015%20with%20Update%203
 
